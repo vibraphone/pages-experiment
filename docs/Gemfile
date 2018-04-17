@@ -1,0 +1,7 @@
+source "https://rubygems.org"
+
+# Github page maintenance
+gem 'github-pages', group: :jekyll_plugins
+
+# This is the default theme for the site.
+gem 'slate'
