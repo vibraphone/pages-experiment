@@ -1,0 +1,9 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "Software"
+    url: /software/
+  - title: "Presentations"
+    url: /presentations/
+  - title: "Download"
+    url: https://gitlab.kitware.com/sensei/sensei

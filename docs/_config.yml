@@ -1,5 +1,33 @@
+locale: "en-US"
 name: SENSEI • in situ
+title: SENSEI | in situ
 description: Scalable analysis methods and in situ infrastructure for extreme scale knowledge discovery
 url: https://sensei-insitu.org/
+baseurl: "/pages-experiment"
 logo: images/sensei_logo_small.png
-theme: slate
+theme: minimal-mistakes-jekyll
+breadcrumbs: true
+untheme: jekyll-theme-slate
+show_downloads: false
+site:
+  og_image: sensei_logo_small.png
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+permalink: /:categories:/:title:/
+include:
+  - _pages
+defaults:
+  - scope:
+      path: ""
+    values:
+      author_profile: true
+      layout: category
+plugins:
+  - jekyll-archives
+social:
+  links:
+    - "https://127.0.0.1:4000/pages-experiment/sitemap"

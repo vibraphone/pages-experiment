@@ -1,8 +1,18 @@
-<image src="images/sensei_logo_small.png" style="align: center;"/>
+---
+excerpt: "Scalable analysis methods and _in situ_ infrastructure for extreme scale knowledge discovery"
+header:
+  overlay_image: /assets/images/phasta-mira.png
+  overlay_filter: rgba(255, 255, 255, 0.5)
+  description: "Vortex shedding over a fixed wing rendered in situ by ParaView/Catalyst"
+  caption: "A 256,000 process run on Mira using Catalyst."
+  cta_label: "Learn more"
+  cta_url: "/about/"
+last_modified_at: 2018-04-17T19:32:00-05:00
+---
 
 # SENSEI in situ
 
-## Abstract
+## Overview
 
 This project takes aim at a set of research challenges for enabling scientific knowledge discovery
 within the context of in situ processing at extreme-scale concurrency.
@@ -36,3 +46,6 @@ of the U.S. Department of Energy under Contract No. DE-AC02-05CH11231,
 through the grant
 “Scalable Analysis Methods and In Situ Infrastructure for Extreme Scale Knowledge Discovery,”
 program manager Dr. Lucy Nowell.
+
+<!-- extra line breaks to prevent footer from obscuring text -->
+<br><br><br>
