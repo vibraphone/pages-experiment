@@ -3,7 +3,7 @@ title: "About SENSEI"
 permalink: /about/
 ---
 
-This project takes aim at a set of research challenges for enabling scientific knowledge discovery within the context of in situ processing at extreme-scale concurrency. This work is motivated by a widening gap between FLOPs and I/O capacity which will make full-resolution, I/O-intensive post hoc analysis prohibitively expensive, if not impossible.
+This foo project takes aim at a set of research challenges for enabling scientific knowledge discovery within the context of in situ processing at extreme-scale concurrency. This work is motivated by a widening gap between FLOPs and I/O capacity which will make full-resolution, I/O-intensive post hoc analysis prohibitively expensive, if not impossible.
 
 We focus on new algorithms for analysis, and visualization – topological, geometric, statistical analysis, flow field analysis, pattern detection and matching – suitable for use in an in situ context aimed specifically at enabling scientific knowledge discovery in several exemplar application areas of importance to DOE.
 
