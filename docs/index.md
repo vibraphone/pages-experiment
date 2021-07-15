@@ -12,6 +12,8 @@ last_modified_at: 2018-04-17T19:32:00-05:00
 
 # SENSEI in situ
 
+Stupid test
+
 ## Overview
 
 This project takes aim at a set of research challenges for enabling scientific knowledge discovery
